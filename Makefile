@@ -19,7 +19,7 @@
 # to update the branch
 # https://hub.docker.com/r/zmkfirmware/zmk-dev-arm/tags
 # https://github.com/zmkfirmware/zmk/blob/main/.devcontainer/Dockerfile
-# docker pull zmkfirmware/zmk-dev-arm:3.2-branch
+docker pull zmkfirmware/zmk-dev-arm:3.2-branch
 #
 # CUSTOM BRANCH EXAMPLE:
 # git clone https://github.com/petejohanson/zmk -b v3.4.0+zmk-fixes
